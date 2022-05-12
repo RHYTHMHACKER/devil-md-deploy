@@ -73,12 +73,12 @@
             "required": false,
             "value":"918547800428"
         },
-        "ALIVE": {
+        "WARN": {
             "description": "No of Warn in Warn command",
             "required": false,
             "value":"3"
         },
-        "WARN": {
+        "ALIVE": {
 
             "description": "Alive message {image/link}, {sender} can also be used",
 
